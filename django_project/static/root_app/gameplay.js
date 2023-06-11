@@ -6405,7 +6405,7 @@ var ss__o = {
                         ss__size: '64px'
                     },
                     ss__itemOptions:{
-                        ss__title: 'xyz'
+                        ss__title: 'tyu'
                         //ss__titleVarName: 't'
                     },
                     ss__substate: 'ss__books/ss__list'
