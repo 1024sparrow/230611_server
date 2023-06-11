@@ -1,0 +1,692 @@
+body{
+    user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+.ss__traliva__stub_widget{
+    background-repeat: repeat;
+}
+.ss__traliva__stub_widget__text{
+    display: inline-block;
+    color: yellow;
+    background: black;
+    padding: 2px 4px;
+    border: 1px solid yellow;
+    border-radius: 5px;
+}
+/*color 0*/
+.ss__traliva__stub_widget.bg-0-0-0{background-image: url("res/_traliva/_widget_stub_bg/0-0-0.png");}
+.ss__traliva__stub_widget.bg-0-0-1{background-image: url("res/_traliva/_widget_stub_bg/0-0-1.png");}
+.ss__traliva__stub_widget.bg-0-0-2{background-image: url("res/_traliva/_widget_stub_bg/0-0-2.png");}
+.ss__traliva__stub_widget.bg-0-0-3{background-image: url("res/_traliva/_widget_stub_bg/0-0-3.png");}
+.ss__traliva__stub_widget.bg-0-0-4{background-image: url("res/_traliva/_widget_stub_bg/0-0-4.png");}
+.ss__traliva__stub_widget.bg-0-0-5{background-image: url("res/_traliva/_widget_stub_bg/0-0-5.png");}
+.ss__traliva__stub_widget.bg-0-1-0{background-image: url("res/_traliva/_widget_stub_bg/0-1-0.png");}
+.ss__traliva__stub_widget.bg-0-1-1{background-image: url("res/_traliva/_widget_stub_bg/0-1-1.png");}
+.ss__traliva__stub_widget.bg-0-1-2{background-image: url("res/_traliva/_widget_stub_bg/0-1-2.png");}
+.ss__traliva__stub_widget.bg-0-1-3{background-image: url("res/_traliva/_widget_stub_bg/0-1-3.png");}
+.ss__traliva__stub_widget.bg-0-1-4{background-image: url("res/_traliva/_widget_stub_bg/0-1-4.png");}
+.ss__traliva__stub_widget.bg-0-1-5{background-image: url("res/_traliva/_widget_stub_bg/0-1-5.png");}
+.ss__traliva__stub_widget.bg-0-2-0{background-image: url("res/_traliva/_widget_stub_bg/0-2-0.png");}
+.ss__traliva__stub_widget.bg-0-2-1{background-image: url("res/_traliva/_widget_stub_bg/0-2-1.png");}
+.ss__traliva__stub_widget.bg-0-2-2{background-image: url("res/_traliva/_widget_stub_bg/0-2-2.png");}
+.ss__traliva__stub_widget.bg-0-2-3{background-image: url("res/_traliva/_widget_stub_bg/0-2-3.png");}
+.ss__traliva__stub_widget.bg-0-2-4{background-image: url("res/_traliva/_widget_stub_bg/0-2-4.png");}
+.ss__traliva__stub_widget.bg-0-2-5{background-image: url("res/_traliva/_widget_stub_bg/0-2-5.png");}
+.ss__traliva__stub_widget.bg-0-3-0{background-image: url("res/_traliva/_widget_stub_bg/0-3-0.png");}
+.ss__traliva__stub_widget.bg-0-3-1{background-image: url("res/_traliva/_widget_stub_bg/0-3-1.png");}
+.ss__traliva__stub_widget.bg-0-3-2{background-image: url("res/_traliva/_widget_stub_bg/0-3-2.png");}
+.ss__traliva__stub_widget.bg-0-3-3{background-image: url("res/_traliva/_widget_stub_bg/0-3-3.png");}
+.ss__traliva__stub_widget.bg-0-3-4{background-image: url("res/_traliva/_widget_stub_bg/0-3-4.png");}
+.ss__traliva__stub_widget.bg-0-3-5{background-image: url("res/_traliva/_widget_stub_bg/0-3-5.png");}
+.ss__traliva__stub_widget.bg-0-4-0{background-image: url("res/_traliva/_widget_stub_bg/0-4-0.png");}
+.ss__traliva__stub_widget.bg-0-4-1{background-image: url("res/_traliva/_widget_stub_bg/0-4-1.png");}
+.ss__traliva__stub_widget.bg-0-4-2{background-image: url("res/_traliva/_widget_stub_bg/0-4-2.png");}
+.ss__traliva__stub_widget.bg-0-4-3{background-image: url("res/_traliva/_widget_stub_bg/0-4-3.png");}
+.ss__traliva__stub_widget.bg-0-4-4{background-image: url("res/_traliva/_widget_stub_bg/0-4-4.png");}
+.ss__traliva__stub_widget.bg-0-4-5{background-image: url("res/_traliva/_widget_stub_bg/0-4-5.png");}
+/*color 1*/
+.ss__traliva__stub_widget.bg-1-0-0{background-image: url("res/_traliva/_widget_stub_bg/1-0-0.png");}
+.ss__traliva__stub_widget.bg-1-0-1{background-image: url("res/_traliva/_widget_stub_bg/1-0-1.png");}
+.ss__traliva__stub_widget.bg-1-0-2{background-image: url("res/_traliva/_widget_stub_bg/1-0-2.png");}
+.ss__traliva__stub_widget.bg-1-0-3{background-image: url("res/_traliva/_widget_stub_bg/1-0-3.png");}
+.ss__traliva__stub_widget.bg-1-0-4{background-image: url("res/_traliva/_widget_stub_bg/1-0-4.png");}
+.ss__traliva__stub_widget.bg-1-0-5{background-image: url("res/_traliva/_widget_stub_bg/1-0-5.png");}
+.ss__traliva__stub_widget.bg-1-1-0{background-image: url("res/_traliva/_widget_stub_bg/1-1-0.png");}
+.ss__traliva__stub_widget.bg-1-1-1{background-image: url("res/_traliva/_widget_stub_bg/1-1-1.png");}
+.ss__traliva__stub_widget.bg-1-1-2{background-image: url("res/_traliva/_widget_stub_bg/1-1-2.png");}
+.ss__traliva__stub_widget.bg-1-1-3{background-image: url("res/_traliva/_widget_stub_bg/1-1-3.png");}
+.ss__traliva__stub_widget.bg-1-1-4{background-image: url("res/_traliva/_widget_stub_bg/1-1-4.png");}
+.ss__traliva__stub_widget.bg-1-1-5{background-image: url("res/_traliva/_widget_stub_bg/1-1-5.png");}
+.ss__traliva__stub_widget.bg-1-2-0{background-image: url("res/_traliva/_widget_stub_bg/1-2-0.png");}
+.ss__traliva__stub_widget.bg-1-2-1{background-image: url("res/_traliva/_widget_stub_bg/1-2-1.png");}
+.ss__traliva__stub_widget.bg-1-2-2{background-image: url("res/_traliva/_widget_stub_bg/1-2-2.png");}
+.ss__traliva__stub_widget.bg-1-2-3{background-image: url("res/_traliva/_widget_stub_bg/1-2-3.png");}
+.ss__traliva__stub_widget.bg-1-2-4{background-image: url("res/_traliva/_widget_stub_bg/1-2-4.png");}
+.ss__traliva__stub_widget.bg-1-2-5{background-image: url("res/_traliva/_widget_stub_bg/1-2-5.png");}
+.ss__traliva__stub_widget.bg-1-3-0{background-image: url("res/_traliva/_widget_stub_bg/1-3-0.png");}
+.ss__traliva__stub_widget.bg-1-3-1{background-image: url("res/_traliva/_widget_stub_bg/1-3-1.png");}
+.ss__traliva__stub_widget.bg-1-3-2{background-image: url("res/_traliva/_widget_stub_bg/1-3-2.png");}
+.ss__traliva__stub_widget.bg-1-3-3{background-image: url("res/_traliva/_widget_stub_bg/1-3-3.png");}
+.ss__traliva__stub_widget.bg-1-3-4{background-image: url("res/_traliva/_widget_stub_bg/1-3-4.png");}
+.ss__traliva__stub_widget.bg-1-3-5{background-image: url("res/_traliva/_widget_stub_bg/1-3-5.png");}
+.ss__traliva__stub_widget.bg-1-4-0{background-image: url("res/_traliva/_widget_stub_bg/1-4-0.png");}
+.ss__traliva__stub_widget.bg-1-4-1{background-image: url("res/_traliva/_widget_stub_bg/1-4-1.png");}
+.ss__traliva__stub_widget.bg-1-4-2{background-image: url("res/_traliva/_widget_stub_bg/1-4-2.png");}
+.ss__traliva__stub_widget.bg-1-4-3{background-image: url("res/_traliva/_widget_stub_bg/1-4-3.png");}
+.ss__traliva__stub_widget.bg-1-4-4{background-image: url("res/_traliva/_widget_stub_bg/1-4-4.png");}
+.ss__traliva__stub_widget.bg-1-4-5{background-image: url("res/_traliva/_widget_stub_bg/1-4-5.png");}
+/*color 2*/
+.ss__traliva__stub_widget.bg-2-0-0{background-image: url("res/_traliva/_widget_stub_bg/2-0-0.png");}
+.ss__traliva__stub_widget.bg-2-0-1{background-image: url("res/_traliva/_widget_stub_bg/2-0-1.png");}
+.ss__traliva__stub_widget.bg-2-0-2{background-image: url("res/_traliva/_widget_stub_bg/2-0-2.png");}
+.ss__traliva__stub_widget.bg-2-0-3{background-image: url("res/_traliva/_widget_stub_bg/2-0-3.png");}
+.ss__traliva__stub_widget.bg-2-0-4{background-image: url("res/_traliva/_widget_stub_bg/2-0-4.png");}
+.ss__traliva__stub_widget.bg-2-0-5{background-image: url("res/_traliva/_widget_stub_bg/2-0-5.png");}
+.ss__traliva__stub_widget.bg-2-1-0{background-image: url("res/_traliva/_widget_stub_bg/2-1-0.png");}
+.ss__traliva__stub_widget.bg-2-1-1{background-image: url("res/_traliva/_widget_stub_bg/2-1-1.png");}
+.ss__traliva__stub_widget.bg-2-1-2{background-image: url("res/_traliva/_widget_stub_bg/2-1-2.png");}
+.ss__traliva__stub_widget.bg-2-1-3{background-image: url("res/_traliva/_widget_stub_bg/2-1-3.png");}
+.ss__traliva__stub_widget.bg-2-1-4{background-image: url("res/_traliva/_widget_stub_bg/2-1-4.png");}
+.ss__traliva__stub_widget.bg-2-1-5{background-image: url("res/_traliva/_widget_stub_bg/2-1-5.png");}
+.ss__traliva__stub_widget.bg-2-2-0{background-image: url("res/_traliva/_widget_stub_bg/2-2-0.png");}
+.ss__traliva__stub_widget.bg-2-2-1{background-image: url("res/_traliva/_widget_stub_bg/2-2-1.png");}
+.ss__traliva__stub_widget.bg-2-2-2{background-image: url("res/_traliva/_widget_stub_bg/2-2-2.png");}
+.ss__traliva__stub_widget.bg-2-2-3{background-image: url("res/_traliva/_widget_stub_bg/2-2-3.png");}
+.ss__traliva__stub_widget.bg-2-2-4{background-image: url("res/_traliva/_widget_stub_bg/2-2-4.png");}
+.ss__traliva__stub_widget.bg-2-2-5{background-image: url("res/_traliva/_widget_stub_bg/2-2-5.png");}
+.ss__traliva__stub_widget.bg-2-3-0{background-image: url("res/_traliva/_widget_stub_bg/2-3-0.png");}
+.ss__traliva__stub_widget.bg-2-3-1{background-image: url("res/_traliva/_widget_stub_bg/2-3-1.png");}
+.ss__traliva__stub_widget.bg-2-3-2{background-image: url("res/_traliva/_widget_stub_bg/2-3-2.png");}
+.ss__traliva__stub_widget.bg-2-3-3{background-image: url("res/_traliva/_widget_stub_bg/2-3-3.png");}
+.ss__traliva__stub_widget.bg-2-3-4{background-image: url("res/_traliva/_widget_stub_bg/2-3-4.png");}
+.ss__traliva__stub_widget.bg-2-3-5{background-image: url("res/_traliva/_widget_stub_bg/2-3-5.png");}
+.ss__traliva__stub_widget.bg-2-4-0{background-image: url("res/_traliva/_widget_stub_bg/2-4-0.png");}
+.ss__traliva__stub_widget.bg-2-4-1{background-image: url("res/_traliva/_widget_stub_bg/2-4-1.png");}
+.ss__traliva__stub_widget.bg-2-4-2{background-image: url("res/_traliva/_widget_stub_bg/2-4-2.png");}
+.ss__traliva__stub_widget.bg-2-4-3{background-image: url("res/_traliva/_widget_stub_bg/2-4-3.png");}
+.ss__traliva__stub_widget.bg-2-4-4{background-image: url("res/_traliva/_widget_stub_bg/2-4-4.png");}
+.ss__traliva__stub_widget.bg-2-4-5{background-image: url("res/_traliva/_widget_stub_bg/2-4-5.png");}
+/*color 3*/
+.ss__traliva__stub_widget.bg-3-0-0{background-image: url("res/_traliva/_widget_stub_bg/3-0-0.png");}
+.ss__traliva__stub_widget.bg-3-0-1{background-image: url("res/_traliva/_widget_stub_bg/3-0-1.png");}
+.ss__traliva__stub_widget.bg-3-0-2{background-image: url("res/_traliva/_widget_stub_bg/3-0-2.png");}
+.ss__traliva__stub_widget.bg-3-0-3{background-image: url("res/_traliva/_widget_stub_bg/3-0-3.png");}
+.ss__traliva__stub_widget.bg-3-0-4{background-image: url("res/_traliva/_widget_stub_bg/3-0-4.png");}
+.ss__traliva__stub_widget.bg-3-0-5{background-image: url("res/_traliva/_widget_stub_bg/3-0-5.png");}
+.ss__traliva__stub_widget.bg-3-1-0{background-image: url("res/_traliva/_widget_stub_bg/3-1-0.png");}
+.ss__traliva__stub_widget.bg-3-1-1{background-image: url("res/_traliva/_widget_stub_bg/3-1-1.png");}
+.ss__traliva__stub_widget.bg-3-1-2{background-image: url("res/_traliva/_widget_stub_bg/3-1-2.png");}
+.ss__traliva__stub_widget.bg-3-1-3{background-image: url("res/_traliva/_widget_stub_bg/3-1-3.png");}
+.ss__traliva__stub_widget.bg-3-1-4{background-image: url("res/_traliva/_widget_stub_bg/3-1-4.png");}
+.ss__traliva__stub_widget.bg-3-1-5{background-image: url("res/_traliva/_widget_stub_bg/3-1-5.png");}
+.ss__traliva__stub_widget.bg-3-2-0{background-image: url("res/_traliva/_widget_stub_bg/3-2-0.png");}
+.ss__traliva__stub_widget.bg-3-2-1{background-image: url("res/_traliva/_widget_stub_bg/3-2-1.png");}
+.ss__traliva__stub_widget.bg-3-2-2{background-image: url("res/_traliva/_widget_stub_bg/3-2-2.png");}
+.ss__traliva__stub_widget.bg-3-2-3{background-image: url("res/_traliva/_widget_stub_bg/3-2-3.png");}
+.ss__traliva__stub_widget.bg-3-2-4{background-image: url("res/_traliva/_widget_stub_bg/3-2-4.png");}
+.ss__traliva__stub_widget.bg-3-2-5{background-image: url("res/_traliva/_widget_stub_bg/3-2-5.png");}
+.ss__traliva__stub_widget.bg-3-3-0{background-image: url("res/_traliva/_widget_stub_bg/3-3-0.png");}
+.ss__traliva__stub_widget.bg-3-3-1{background-image: url("res/_traliva/_widget_stub_bg/3-3-1.png");}
+.ss__traliva__stub_widget.bg-3-3-2{background-image: url("res/_traliva/_widget_stub_bg/3-3-2.png");}
+.ss__traliva__stub_widget.bg-3-3-3{background-image: url("res/_traliva/_widget_stub_bg/3-3-3.png");}
+.ss__traliva__stub_widget.bg-3-3-4{background-image: url("res/_traliva/_widget_stub_bg/3-3-4.png");}
+.ss__traliva__stub_widget.bg-3-3-5{background-image: url("res/_traliva/_widget_stub_bg/3-3-5.png");}
+.ss__traliva__stub_widget.bg-3-4-0{background-image: url("res/_traliva/_widget_stub_bg/3-4-0.png");}
+.ss__traliva__stub_widget.bg-3-4-1{background-image: url("res/_traliva/_widget_stub_bg/3-4-1.png");}
+.ss__traliva__stub_widget.bg-3-4-2{background-image: url("res/_traliva/_widget_stub_bg/3-4-2.png");}
+.ss__traliva__stub_widget.bg-3-4-3{background-image: url("res/_traliva/_widget_stub_bg/3-4-3.png");}
+.ss__traliva__stub_widget.bg-3-4-4{background-image: url("res/_traliva/_widget_stub_bg/3-4-4.png");}
+.ss__traliva__stub_widget.bg-3-4-5{background-image: url("res/_traliva/_widget_stub_bg/3-4-5.png");}
+/*color 4*/
+.ss__traliva__stub_widget.bg-4-0-0{background-image: url("res/_traliva/_widget_stub_bg/4-0-0.png");}
+.ss__traliva__stub_widget.bg-4-0-1{background-image: url("res/_traliva/_widget_stub_bg/4-0-1.png");}
+.ss__traliva__stub_widget.bg-4-0-2{background-image: url("res/_traliva/_widget_stub_bg/4-0-2.png");}
+.ss__traliva__stub_widget.bg-4-0-3{background-image: url("res/_traliva/_widget_stub_bg/4-0-3.png");}
+.ss__traliva__stub_widget.bg-4-0-4{background-image: url("res/_traliva/_widget_stub_bg/4-0-4.png");}
+.ss__traliva__stub_widget.bg-4-0-5{background-image: url("res/_traliva/_widget_stub_bg/4-0-5.png");}
+.ss__traliva__stub_widget.bg-4-1-0{background-image: url("res/_traliva/_widget_stub_bg/4-1-0.png");}
+.ss__traliva__stub_widget.bg-4-1-1{background-image: url("res/_traliva/_widget_stub_bg/4-1-1.png");}
+.ss__traliva__stub_widget.bg-4-1-2{background-image: url("res/_traliva/_widget_stub_bg/4-1-2.png");}
+.ss__traliva__stub_widget.bg-4-1-3{background-image: url("res/_traliva/_widget_stub_bg/4-1-3.png");}
+.ss__traliva__stub_widget.bg-4-1-4{background-image: url("res/_traliva/_widget_stub_bg/4-1-4.png");}
+.ss__traliva__stub_widget.bg-4-1-5{background-image: url("res/_traliva/_widget_stub_bg/4-1-5.png");}
+.ss__traliva__stub_widget.bg-4-2-0{background-image: url("res/_traliva/_widget_stub_bg/4-2-0.png");}
+.ss__traliva__stub_widget.bg-4-2-1{background-image: url("res/_traliva/_widget_stub_bg/4-2-1.png");}
+.ss__traliva__stub_widget.bg-4-2-2{background-image: url("res/_traliva/_widget_stub_bg/4-2-2.png");}
+.ss__traliva__stub_widget.bg-4-2-3{background-image: url("res/_traliva/_widget_stub_bg/4-2-3.png");}
+.ss__traliva__stub_widget.bg-4-2-4{background-image: url("res/_traliva/_widget_stub_bg/4-2-4.png");}
+.ss__traliva__stub_widget.bg-4-2-5{background-image: url("res/_traliva/_widget_stub_bg/4-2-5.png");}
+.ss__traliva__stub_widget.bg-4-3-0{background-image: url("res/_traliva/_widget_stub_bg/4-3-0.png");}
+.ss__traliva__stub_widget.bg-4-3-1{background-image: url("res/_traliva/_widget_stub_bg/4-3-1.png");}
+.ss__traliva__stub_widget.bg-4-3-2{background-image: url("res/_traliva/_widget_stub_bg/4-3-2.png");}
+.ss__traliva__stub_widget.bg-4-3-3{background-image: url("res/_traliva/_widget_stub_bg/4-3-3.png");}
+.ss__traliva__stub_widget.bg-4-3-4{background-image: url("res/_traliva/_widget_stub_bg/4-3-4.png");}
+.ss__traliva__stub_widget.bg-4-3-5{background-image: url("res/_traliva/_widget_stub_bg/4-3-5.png");}
+.ss__traliva__stub_widget.bg-4-4-0{background-image: url("res/_traliva/_widget_stub_bg/4-4-0.png");}
+.ss__traliva__stub_widget.bg-4-4-1{background-image: url("res/_traliva/_widget_stub_bg/4-4-1.png");}
+.ss__traliva__stub_widget.bg-4-4-2{background-image: url("res/_traliva/_widget_stub_bg/4-4-2.png");}
+.ss__traliva__stub_widget.bg-4-4-3{background-image: url("res/_traliva/_widget_stub_bg/4-4-3.png");}
+.ss__traliva__stub_widget.bg-4-4-4{background-image: url("res/_traliva/_widget_stub_bg/4-4-4.png");}
+.ss__traliva__stub_widget.bg-4-4-5{background-image: url("res/_traliva/_widget_stub_bg/4-4-5.png");}
+/*color 5*/
+.ss__traliva__stub_widget.bg-5-0-0{background-image: url("res/_traliva/_widget_stub_bg/5-0-0.png");}
+.ss__traliva__stub_widget.bg-5-0-1{background-image: url("res/_traliva/_widget_stub_bg/5-0-1.png");}
+.ss__traliva__stub_widget.bg-5-0-2{background-image: url("res/_traliva/_widget_stub_bg/5-0-2.png");}
+.ss__traliva__stub_widget.bg-5-0-3{background-image: url("res/_traliva/_widget_stub_bg/5-0-3.png");}
+.ss__traliva__stub_widget.bg-5-0-4{background-image: url("res/_traliva/_widget_stub_bg/5-0-4.png");}
+.ss__traliva__stub_widget.bg-5-0-5{background-image: url("res/_traliva/_widget_stub_bg/5-0-5.png");}
+.ss__traliva__stub_widget.bg-5-1-0{background-image: url("res/_traliva/_widget_stub_bg/5-1-0.png");}
+.ss__traliva__stub_widget.bg-5-1-1{background-image: url("res/_traliva/_widget_stub_bg/5-1-1.png");}
+.ss__traliva__stub_widget.bg-5-1-2{background-image: url("res/_traliva/_widget_stub_bg/5-1-2.png");}
+.ss__traliva__stub_widget.bg-5-1-3{background-image: url("res/_traliva/_widget_stub_bg/5-1-3.png");}
+.ss__traliva__stub_widget.bg-5-1-4{background-image: url("res/_traliva/_widget_stub_bg/5-1-4.png");}
+.ss__traliva__stub_widget.bg-5-1-5{background-image: url("res/_traliva/_widget_stub_bg/5-1-5.png");}
+.ss__traliva__stub_widget.bg-5-2-0{background-image: url("res/_traliva/_widget_stub_bg/5-2-0.png");}
+.ss__traliva__stub_widget.bg-5-2-1{background-image: url("res/_traliva/_widget_stub_bg/5-2-1.png");}
+.ss__traliva__stub_widget.bg-5-2-2{background-image: url("res/_traliva/_widget_stub_bg/5-2-2.png");}
+.ss__traliva__stub_widget.bg-5-2-3{background-image: url("res/_traliva/_widget_stub_bg/5-2-3.png");}
+.ss__traliva__stub_widget.bg-5-2-4{background-image: url("res/_traliva/_widget_stub_bg/5-2-4.png");}
+.ss__traliva__stub_widget.bg-5-2-5{background-image: url("res/_traliva/_widget_stub_bg/5-2-5.png");}
+.ss__traliva__stub_widget.bg-5-3-0{background-image: url("res/_traliva/_widget_stub_bg/5-3-0.png");}
+.ss__traliva__stub_widget.bg-5-3-1{background-image: url("res/_traliva/_widget_stub_bg/5-3-1.png");}
+.ss__traliva__stub_widget.bg-5-3-2{background-image: url("res/_traliva/_widget_stub_bg/5-3-2.png");}
+.ss__traliva__stub_widget.bg-5-3-3{background-image: url("res/_traliva/_widget_stub_bg/5-3-3.png");}
+.ss__traliva__stub_widget.bg-5-3-4{background-image: url("res/_traliva/_widget_stub_bg/5-3-4.png");}
+.ss__traliva__stub_widget.bg-5-3-5{background-image: url("res/_traliva/_widget_stub_bg/5-3-5.png");}
+.ss__traliva__stub_widget.bg-5-4-0{background-image: url("res/_traliva/_widget_stub_bg/5-4-0.png");}
+.ss__traliva__stub_widget.bg-5-4-1{background-image: url("res/_traliva/_widget_stub_bg/5-4-1.png");}
+.ss__traliva__stub_widget.bg-5-4-2{background-image: url("res/_traliva/_widget_stub_bg/5-4-2.png");}
+.ss__traliva__stub_widget.bg-5-4-3{background-image: url("res/_traliva/_widget_stub_bg/5-4-3.png");}
+.ss__traliva__stub_widget.bg-5-4-4{background-image: url("res/_traliva/_widget_stub_bg/5-4-4.png");}
+.ss__traliva__stub_widget.bg-5-4-5{background-image: url("res/_traliva/_widget_stub_bg/5-4-5.png");}
+/*color 6*/
+.ss__traliva__stub_widget.bg-6-0-0{background-image: url("res/_traliva/_widget_stub_bg/6-0-0.png");}
+.ss__traliva__stub_widget.bg-6-0-1{background-image: url("res/_traliva/_widget_stub_bg/6-0-1.png");}
+.ss__traliva__stub_widget.bg-6-0-2{background-image: url("res/_traliva/_widget_stub_bg/6-0-2.png");}
+.ss__traliva__stub_widget.bg-6-0-3{background-image: url("res/_traliva/_widget_stub_bg/6-0-3.png");}
+.ss__traliva__stub_widget.bg-6-0-4{background-image: url("res/_traliva/_widget_stub_bg/6-0-4.png");}
+.ss__traliva__stub_widget.bg-6-0-5{background-image: url("res/_traliva/_widget_stub_bg/6-0-5.png");}
+.ss__traliva__stub_widget.bg-6-1-0{background-image: url("res/_traliva/_widget_stub_bg/6-1-0.png");}
+.ss__traliva__stub_widget.bg-6-1-1{background-image: url("res/_traliva/_widget_stub_bg/6-1-1.png");}
+.ss__traliva__stub_widget.bg-6-1-2{background-image: url("res/_traliva/_widget_stub_bg/6-1-2.png");}
+.ss__traliva__stub_widget.bg-6-1-3{background-image: url("res/_traliva/_widget_stub_bg/6-1-3.png");}
+.ss__traliva__stub_widget.bg-6-1-4{background-image: url("res/_traliva/_widget_stub_bg/6-1-4.png");}
+.ss__traliva__stub_widget.bg-6-1-5{background-image: url("res/_traliva/_widget_stub_bg/6-1-5.png");}
+.ss__traliva__stub_widget.bg-6-2-0{background-image: url("res/_traliva/_widget_stub_bg/6-2-0.png");}
+.ss__traliva__stub_widget.bg-6-2-1{background-image: url("res/_traliva/_widget_stub_bg/6-2-1.png");}
+.ss__traliva__stub_widget.bg-6-2-2{background-image: url("res/_traliva/_widget_stub_bg/6-2-2.png");}
+.ss__traliva__stub_widget.bg-6-2-3{background-image: url("res/_traliva/_widget_stub_bg/6-2-3.png");}
+.ss__traliva__stub_widget.bg-6-2-4{background-image: url("res/_traliva/_widget_stub_bg/6-2-4.png");}
+.ss__traliva__stub_widget.bg-6-2-5{background-image: url("res/_traliva/_widget_stub_bg/6-2-5.png");}
+.ss__traliva__stub_widget.bg-6-3-0{background-image: url("res/_traliva/_widget_stub_bg/6-3-0.png");}
+.ss__traliva__stub_widget.bg-6-3-1{background-image: url("res/_traliva/_widget_stub_bg/6-3-1.png");}
+.ss__traliva__stub_widget.bg-6-3-2{background-image: url("res/_traliva/_widget_stub_bg/6-3-2.png");}
+.ss__traliva__stub_widget.bg-6-3-3{background-image: url("res/_traliva/_widget_stub_bg/6-3-3.png");}
+.ss__traliva__stub_widget.bg-6-3-4{background-image: url("res/_traliva/_widget_stub_bg/6-3-4.png");}
+.ss__traliva__stub_widget.bg-6-3-5{background-image: url("res/_traliva/_widget_stub_bg/6-3-5.png");}
+.ss__traliva__stub_widget.bg-6-4-0{background-image: url("res/_traliva/_widget_stub_bg/6-4-0.png");}
+.ss__traliva__stub_widget.bg-6-4-1{background-image: url("res/_traliva/_widget_stub_bg/6-4-1.png");}
+.ss__traliva__stub_widget.bg-6-4-2{background-image: url("res/_traliva/_widget_stub_bg/6-4-2.png");}
+.ss__traliva__stub_widget.bg-6-4-3{background-image: url("res/_traliva/_widget_stub_bg/6-4-3.png");}
+.ss__traliva__stub_widget.bg-6-4-4{background-image: url("res/_traliva/_widget_stub_bg/6-4-4.png");}
+.ss__traliva__stub_widget.bg-6-4-5{background-image: url("res/_traliva/_widget_stub_bg/6-4-5.png");}
+
+/*debug panel and widgets*/
+.ss__traliva__debug_panel{
+    color: #ffa;/*на время обкатки отладочной панели*/
+    background: #000;
+    border-bottom: 1px solid #48f;
+}
+.ss__traliva__debug_panel *{
+    font-family: Play;
+    font-size: 16px;
+}
+.ss__traliva__debug_panel__bn{
+    /**/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.ss__traliva__debug_panel__bn:hover{
+    background: #222;
+}
+.ss__traliva__debug_panel__bn_back{
+    background-image: url("res/_traliva/debug_bn_back.png");
+    cursor: pointer;
+}
+.ss__traliva__debug_panel__bn_back:hover{
+    background-image: url("res/_traliva/debug_bn_back_hover.png");
+}
+.ss__traliva__debug_panel__bn_forward{
+    background-image: url("res/_traliva/debug_bn_forward.png");
+    cursor: pointer;
+}
+.ss__traliva__debug_panel__bn_forward:hover{
+    background-image: url("res/_traliva/debug_bn_forward_hover.png");
+}
+.ss__traliva__debug_panel__bn_enter{
+    background-image: url("res/_traliva/debug_bn_enter.png");
+    cursor: pointer;
+}
+.ss__traliva__debug_panel__bn_enter:hover{
+    background-image: url("res/_traliva/debug_bn_enter_hover.png");
+}
+.ss__traliva__debug_panel__error{
+    margin: 8px;
+    color: #afa;
+}
+.ss__traliva__debug_panel__states{
+    //background: #000;
+    background: rgba(0,0,0,0.9);
+}
+.ss__traliva__debug_panel__states_states{
+    /*border-bottom: 1px solid #48f;*/
+}
+.ss__traliva__debug_panel__states_extender{
+    color: #ffa;
+    border-bottom: 1px solid #ffa;
+}
+.ss__traliva__debug_panel__apply_state_button{
+    color: #48f;
+    border: 1px solid #48f;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    font-family: Play;
+    font-size: 16px;
+}
+.ss__traliva__debug_panel__apply_state_button:hover{
+    background: #222;
+}
+.ss____debug_panel_url > input{
+    margin-top: 5px;
+    background: #000;
+    color: #afa;
+    border: 1px solid #afa;
+    border-radius: 5px;
+}
+
+
+
+.ss__traliva_kit__label{
+    /*padding: 4px;*/
+    margin: 0px;
+    /*padding: 10px;*/
+}
+.ss__traliva_kit__label div{
+    margin: 0px;
+}
+
+
+
+.ss__traliva_kit__bn{
+    color: #666;
+    background: #eee;
+    margin: 5px;
+    border: 1px solid #666;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 32px;
+    cursor: pointer;
+}
+.ss__traliva_kit__bn:hover{
+    background: #aaa;
+}
+.ss__traliva_kit__bn.ss__active{
+    background: #ffa;
+}
+.ss__traliva_kit__bn.ss__active:hover{
+    background: #fa8;
+}
+
+
+
+.ss__traliva_kit__lineedit{
+    color: #666;
+    border: 1px solid #666;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 4px;
+    background: rgba(0,0,0,0);
+}
+/*.ss__traliva_kit__lineedit::placeholder{
+    color: red;
+}*/
+
+
+
+.ss__traliva_kit__fileselect{
+    color: #666;
+    border: 1px solid #666;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 4px;
+}
+.ss__traliva_kit__fileselect:hover{
+    background: #fa8;
+}
+
+
+
+.ss__traliva_kit__simplelist{
+    color: #48f;
+    width: 100%;
+}
+.ss__traliva_kit__simplelist div.selected{
+    color: #f80;
+}
+.ss__traliva_kit__simplelist tr:hover{
+    background: #004;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ss__traliva_kit__static_html{
+    user-select: text;
+    -moz-user-select: text;
+    -khtml-user-select: text;
+    -webkit-user-select: text;
+    -ms-user-select: text;
+    overflow: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ss__traliva_kit__roll_inn{
+    transition-property: background-color;
+    transition-duration: 0.2s;
+    /*background: rgba(0,0,0,0.5);*/
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.ss__traliva_kit__roll_inn > div{
+    /*display: none;*/
+    transition-property: left;
+    transition-duration: 0.2s;
+    /*width: 80%;*/
+    height: 100%;
+    background: #ffa;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+
+
+/*.ss__TralivaKit__90223NavBar__desktop{
+}
+.ss__TralivaKit__90223NavBar__mobile{
+}*/
+
+
+
+
+
+
+
+/*.ss__traliva_kit__contacts{
+}*/
+.ss__traliva_kit__contacts{
+    /*background: #040;*/
+    height:100%;
+    /*overflow: auto;*/
+    display:inline-block;
+    /*margin: auto;*/
+}
+.ss__traliva_kit__contacts__tab{
+    position:absolute;
+    top:0;
+    left:0;
+    border:2px solid #000;
+    border-radius:32px;
+    padding:16px;
+    background: #ffe;
+}
+.ss__card{
+    /*width: 512px;*/
+    height: 160px;
+    /*background: #fff;*/
+    position:relative;
+    /*display:inline-block;*/
+    display:none;
+    margin:10px;
+}
+.ss__card_inner{
+    width: 448px;
+    height:260px;
+    border: 2px solid #000;
+    border-radius: 32px;
+    position:absolute;
+    left:16px;top: 16px;
+    padding-left:64px;
+    background:#ffe
+}
+.ss__card_icon{
+    width: 64px;
+    height:64px;
+    /*border: 2px solid #000;*/
+    border-radius: 32px;
+    position:absolute;
+    z-index:1;
+}
+.ss__card_icon_mobile{
+    width: 64px;
+    height:64px;
+    /*border: 2px solid #000;*/
+    border-radius: 32px;
+    display: none; /*inline-block;*/
+    position:relative;
+    z-index:1;
+}
+.ss__bn{
+    /*padding: 20px;*/
+    /*height: 64px;*/
+    padding: 8px;
+    border: 2px solid #420;
+    border-radius: 20px;
+    background: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+/*td > div:hover{*/
+.ss__bn:hover{
+    background: #aaa;
+}
+
+
+
+
+
+
+
+.ss__TralivaKit__90412DialogFrame{
+    width: 100%;
+    height:100%;
+    background: rgba(0,0,0,0.8);
+}
+.ss__TralivaKit__90412DialogFrame_cross{
+    position:fixed;
+    width:32px;
+    height:32px;
+    background: url("res/_traliva_kit/cross_32.png");
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+.ss__TralivaKit__90420CallbackForm_bigTimeValidNote{
+}
+.ss__TralivaKit__90420CallbackForm_bigTimeValidNote p{
+    font-size: 12px;
+    color: #666;
+}
+.ss__TralivaKit__90420CallbackForm_smallTimeValidNote{
+}
+.ss__TralivaKit__90420CallbackForm_smallTimeValidNote p{
+    font-size: 6px;;
+    color: #666;
+}
+.ss__90420CallbackForm_ok{
+    border: 1px solid #048;
+    color: #048;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 32px;
+}
+.ss__90420CallbackForm_fail{
+    border: 1px solid #f00;
+    color: #f00;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 32px;
+}
+
+
+
+.ss__TralivaKit__ScreenKeyboard__Container {
+    /*background: rgba(0, 0, 0, 0.5);*/
+}
+
+
+
+.ss__TralivaKit__ScreenKeyboard {
+    width: 48px;
+    height: 48px;
+    /*background: red;*/
+    /*background: url("res/_traliva_kit/123.png");*/
+    /*background: url("res/_traliva_kit/screen_keyboard/classic.png");*/
+
+/*
+    opacity: .4;
+    background-size: 96px;
+    backround-position-x: -48px;
+*/
+}
+
+.ss__TralivaKit__ScreenKeyboard.ss__classic {
+    background: url("res/_traliva_kit/screen_keyboard/classic.png");
+}
+
+.ss__TralivaKit__ScreenKeyboard.ss__phone {
+    background: url("res/_traliva_kit/screen_keyboard/phone.png");
+}
+
+
+
+.ss__traliva_kit__230517List div.ss__used:hover{
+	background: rgba(0,0,0,.1)
+}
+
+.ss__traliva_kit__230517List .ss__item{
+	color: #1d2435;
+	height: 24px;
+}
+
+.ss__traliva_kit__230517List .ss__item .ss__1{
+	float: left;
+	width: 24px;
+	height: 24px;
+}
+
+.ss__traliva_kit__230517List .ss__item .ss__off{
+	background: url("res/_traliva_kit/230517List/cb0.png");
+}
+
+.ss__traliva_kit__230517List .ss__item .ss__on{
+	background: url("res/_traliva_kit/230517List/cb1.png");
+}
+
+.ss__traliva_kit__230517List .ss__item .ss__2{
+}
+
+
+
+.ss__TralivaKit__230522Group{
+	border: solid #400 1px;
+	border-radius: 20px;
+	background: #eee;
+}
+
+.ss__TralivaKit__230522Group__content{
+	border: solid #ddd 1px;
+	border-radius: 20px;
+	position: relative;
+	display: inline-block;
+	padding: 0 10px;
+	left: 6px;
+	top: 2px;
+	background: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+.ss__230531Waiting{
+	background: rgba(255,255,255,0.5);
+}
+.ss__230531WaitingContent{
+	background: url("res/_traliva_kit/230531Waiting/waiting-ru.gif");
+	width: 512px;
+	height: 100%;
+}
+
+
+
+
+
+
+
+
+
+/* hello from style.css (as source file) */
